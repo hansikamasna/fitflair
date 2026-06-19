@@ -1,11 +1,11 @@
-# 👗 Virtual CD Try-On System
+#  Virtual CD Try-On System
 ### Final Year College Project — Full Stack + AI
 
 A 3D virtual clothing try-on system with AI outfit recommendations powered by color theory.
 
 ---
 
-## 🏗 Architecture
+## Architecture
 
 ```
 Browser (React + Three.js)
@@ -19,7 +19,7 @@ Browser → POST /recommend → FastAPI AI Service (port 8000) → Python color 
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 virtual-tryon/
@@ -65,7 +65,7 @@ virtual-tryon/
 
 ---
 
-## 🚀 Setup & Run
+##  Setup & Run
 
 ### Prerequisites
 - Node.js 18+
@@ -132,7 +132,7 @@ node ../database/seeds/seed.js
 
 ---
 
-## 🔌 API Reference
+##  API Reference
 
 ### Node.js Backend (port 4000)
 
@@ -171,7 +171,7 @@ node ../database/seeds/seed.js
 
 ---
 
-## 🎨 Features
+##  Features
 
 ### 3D Mannequin
 - Built with React Three Fiber (declarative Three.js)
@@ -202,7 +202,7 @@ node ../database/seeds/seed.js
 
 ---
 
-## 🧠 Color Theory Explained
+##  Color Theory Explained
 
 The AI module uses three pairing strategies:
 
@@ -214,7 +214,7 @@ The AI module uses three pairing strategies:
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Layer    | Technology                                    |
 |----------|-----------------------------------------------|
@@ -226,7 +226,7 @@ The AI module uses three pairing strategies:
 
 ---
 
-## 📝 MongoDB Schema
+##  MongoDB Schema
 
 ### Clothing
 ```js
@@ -253,3 +253,13 @@ The AI module uses three pairing strategies:
   createdAt: Date
 }
 ```
+##Screenshots
+<img width="1919" height="1008" alt="Screenshot 2026-04-22 113007" src="https://github.com/user-attachments/assets/702a351c-5cab-49bd-b2ab-b77fb94e2dfc" />
+
+<img width="1918" height="1020" alt="Screenshot 2026-04-22 113809" src="https://github.com/user-attachments/assets/61702ba0-9d60-48dd-acc0-9f898f4c5387" />
+<img width="1919" height="989" alt="Screenshot 2026-04-22 113820" src="https://github.com/user-attachments/assets/10ff4db6-1a70-4fad-8133-eaa05a0eee38" />
+<img width="1915" height="1007" alt="Screenshot 2026-04-22 113829" src="https://github.com/user-attachments/assets/149dcfaf-3a72-4429-b9f5-08a512bb3f00" />
+<img width="1845" height="433" alt="Screenshot 2026-04-22 122132" src="https://github.com/user-attachments/assets/4a8dfa14-f8a0-4119-a975-8d99acf8275f" />
+<img width="572" height="989" alt="Screenshot 2026-04-22 112950" src="https://github.com/user-attachments/assets/5898d505-0326-4a9d-931e-7c4b02ce0707" />
+
+
