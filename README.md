@@ -253,7 +253,7 @@ The AI module uses three pairing strategies:
   createdAt: Date
 }
 ```
-##Screenshots
+### Screenshots
 <img width="1919" height="1008" alt="Screenshot 2026-04-22 113007" src="https://github.com/user-attachments/assets/702a351c-5cab-49bd-b2ab-b77fb94e2dfc" />
 
 <img width="1918" height="1020" alt="Screenshot 2026-04-22 113809" src="https://github.com/user-attachments/assets/61702ba0-9d60-48dd-acc0-9f898f4c5387" />
